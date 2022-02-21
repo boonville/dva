@@ -8,15 +8,15 @@ Software architecture description
 
 #### Installation
 
-1. xxxx
-2. xxxx
-3. xxxx
+1. xxxxx
+2. xxxxx
+3. xxxxx
 
 #### Instructions
 
-1. xxxx
-2. xxxx
-3. xxxx
+1. xxxxx
+2. xxxxx
+3. xxxxx
 
 #### Contribution
 
